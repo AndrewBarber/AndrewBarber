@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 <p>🤔 I’m looking for help with <b>Technical Interviews</b></p>
 <!-- - 💬 Ask me about ... -->
 <p>📫 How to reach me: <b>hello@andrewbarber.me</b></p>
-- 😄 Pronouns: **he/him**  
-- ⚡ Fun fact: **I almost got banned from taking my computing standard grade (@ school 🏫) as I figured out how to install Quake3 across the whole network! 🕸️ **    
+<p>😄 Pronouns: <b>he/him</b></p>
+<p>⚡ Fun fact: I <i>almost</i> got banned from taking my computing standard grade (@ school 🏫) as I figured out how to install Quake3 across the whole network! 🕸️</p>
 
 
 <!--<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/></p><p align="center">-->
