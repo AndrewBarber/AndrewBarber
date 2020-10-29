@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on ... -->
 <p>🌱 I’m currently learning <b>React Native</b></p>
 <!-- - 👯 I’m looking to collaborate on ...-->
-<p>🤔 I’m looking for help with <b>Technical Interviews</b></p>
+<!--<p>🤔 I’m looking for help with <b>Technical Interviews</b></p>-->
 <!-- - 💬 Ask me about ... -->
 <p>📫 How to reach me: <b>hello@andrewbarber.me</b></p>
 <p>😄 Pronouns: <b>he/him</b></p>
