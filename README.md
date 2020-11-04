@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Andrew!</h1>  
 <h3 align="center">A passionate full stack developer from Scotland. 🏴󠁧󠁢󠁳󠁣󠁴󠁿 </h3>  
 <!-- - 🔭 I’m currently working on ... -->
-<p>🌱 I’m currently learning <b>React Native</b></p>
+<p>🌱 I’m currently learning <b>AWS Certifications</b></p>
 <!-- - 👯 I’m looking to collaborate on ...-->
 <!--<p>🤔 I’m looking for help with <b>Technical Interviews</b></p>-->
 <!-- - 💬 Ask me about ... -->
